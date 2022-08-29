@@ -8,12 +8,30 @@
         "user (1)":"https://raw.githubusercontent.com/Soul601152/ry607/main/images/user%20(1).png"
       },
       "grid_image":{
-        "animal":"https://raw.githubusercontent.com/Soul601152/ry607/main/images/animal/%E5%8A%A8%E7%89%A9.png",
-        "dog":"https://github.com/Soul601152/ry607/blob/main/images/animal/%E5%B0%8F%E7%8B%97%E5%AD%90.png",
-        "rabbit":"https://raw.githubusercontent.com/Soul601152/ry607/main/images/animal/%E5%B0%8F%E5%85%94%E5%AD%90.png",
-        "pig":"https://raw.githubusercontent.com/Soul601152/ry607/main/images/animal/%E5%B0%8F%E7%8C%AA%E7%8C%AA.png",
-        "cat":"https://raw.githubusercontent.com/Soul601152/ry607/main/images/animal/%E5%B0%8F%E7%8C%AB%E7%8C%AB.png",
-        "chick":"https://raw.githubusercontent.com/Soul601152/ry607/main/images/animal/%E5%B0%8F%E9%B8%A1.png"
+        "animal":{
+          "icon":"https://raw.githubusercontent.com/Soul601152/ry607/main/images/animal/%E5%8A%A8%E7%89%A9.png",
+          "title":'其他'
+        },
+        "dog":{
+          "icon":"https://github.com/Soul601152/ry607/blob/main/images/animal/%E5%B0%8F%E7%8B%97%E5%AD%90.png",
+          "title":'小狗'
+        },
+        "rabbit":{
+          "icon":"https://raw.githubusercontent.com/Soul601152/ry607/main/images/animal/%E5%B0%8F%E5%85%94%E5%AD%90.png",
+          "title":'兔子'
+        },
+        "pig":{
+          "icon":"https://raw.githubusercontent.com/Soul601152/ry607/main/images/animal/%E5%B0%8F%E7%8C%AA%E7%8C%AA.png",
+          "title":'小猪'
+        },
+        "cat":{
+          "icon":"https://raw.githubusercontent.com/Soul601152/ry607/main/images/animal/%E5%B0%8F%E7%8C%AB%E7%8C%AB.png",
+          "title":'小猫'
+        },
+        "chick":{
+          "icon":"https://raw.githubusercontent.com/Soul601152/ry607/main/images/animal/%E5%B0%8F%E9%B8%A1.png",
+          "title":'小鸡'
+        }
       }
     }
   ]
