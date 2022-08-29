@@ -8,10 +8,6 @@
         "user (1)":"https://raw.githubusercontent.com/Soul601152/ry607/main/images/user%20(1).png"
       },
       "grid_image":{
-        "animal":{
-          "icon":"https://raw.githubusercontent.com/Soul601152/ry607/main/images/animal/%E5%8A%A8%E7%89%A9.png",
-          "title":"其他"
-        },
         "dog":{
           "icon":"https://raw.githubusercontent.com/Soul601152/ry607/main/images/animal/%E5%B0%8F%E7%8B%97%E5%AD%90.png",
           "title":"小狗"
@@ -31,6 +27,10 @@
         "chick":{
           "icon":"https://raw.githubusercontent.com/Soul601152/ry607/main/images/animal/%E5%B0%8F%E9%B8%A1.png",
           "title":"小鸡"
+        },
+        "animal":{
+          "icon":"https://raw.githubusercontent.com/Soul601152/ry607/main/images/animal/%E5%8A%A8%E7%89%A9.png",
+          "title":"其他"
         }
       }
     }
